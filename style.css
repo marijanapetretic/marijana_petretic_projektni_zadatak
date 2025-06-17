@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'MarijanaPetretic1';
+  src: url('fonts/MarijanaPetretic3.ttf') format('truetype');
+}
+body {
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Constantia', 'Lucida Bright', 'DejaVu Serif', Georgia, serif;
+    background-image: url("izgled/pozadina4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+p {
+    color: white;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: 18px;
+    line-height: 1.6;
+	width: 800px;
+}
+h2, h3 {
+    font-family: 'Gotham', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: white;
+    text-align: 10px;
+    margin-top: 15px;
+}
+h1 {
+    font-family: 'MarijanaPetretic1', sans-serif;
+    font-size: 40px;
+    letter-spacing: 1px;
+	}
